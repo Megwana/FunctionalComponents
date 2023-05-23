@@ -31,9 +31,11 @@
 .NavBar button {
     color: #4a4a4f;
     border: lightgrey solid 1px;
+    border-radius: 4px;
     background-color: white;
     padding: 5px;
     width: 100px;
+    font-size: 12px;
 }
 .NavBar button:hover{
     color: #4a4a4f;
